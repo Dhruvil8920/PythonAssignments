@@ -10,4 +10,5 @@ Output: true
 
 class Solution(object):
     def rotateString(self, s, goal):
+
         "Write your logic here."
