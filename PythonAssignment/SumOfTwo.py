@@ -20,4 +20,5 @@ class Solution(object):
                     break
                 else:
                     continue
+
         return a
