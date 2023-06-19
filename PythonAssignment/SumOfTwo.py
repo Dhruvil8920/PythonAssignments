@@ -18,7 +18,6 @@ class Solution(object):
                     a.append(i)
                     a.append(j)
                     break
-
                 else:
                     continue
         return a
