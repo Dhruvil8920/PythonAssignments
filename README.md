@@ -16,7 +16,7 @@ git clone https://github.com/Dhruvil8920/PythonAssignments
 
 Create a branch with your name to work on the problems. This will help organize the changes made by different contributors. Use the following command to create a branch:
 
-git checkout -b your-name
+git checkout -b Assignment-your-name
 
 Replace `your-name` with your actual name.
 
