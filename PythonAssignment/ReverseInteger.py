@@ -8,9 +8,11 @@ Output: 321
 
 Input: x = -123
 Output: -321
+
+Input: x = 400
+Output: 004
 '''
 
-class Solution(object):
 
-    def reverse(self, x):
+def reverse(x):
         " Write your logic here. "

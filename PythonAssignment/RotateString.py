@@ -7,8 +7,6 @@ Input: s = "abcde", goal = "cdeab"
 Output: true
 
 '''
-
-class Solution(object):
-    def rotateString(self, s, goal):
+def rotateString(s, goal):
 
         "Write your logic here."

@@ -9,7 +9,5 @@ Output: true
 Explanation: "amanaplanacanalpanama" is a palindrome.
 
 '''
-
-class Solution(object):
-    def isPalindrome(self, s):
-        "Write your logic here."
+def isPalindrome(s):
+    "Write your logic here."
