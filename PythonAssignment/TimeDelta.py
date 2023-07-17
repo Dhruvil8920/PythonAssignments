@@ -21,8 +21,6 @@ we see a difference of 7 hours. which is 7*3600 seconds or 25200 seconds.
 Similarly, in the second query, time difference is 5 hours and 30 minutes for
 time zone adjusting for that we have a difference of 1 day and 30 minutes. Or
 24*3600 + 30*60 = 88200
-
-
 '''
 
 import math
