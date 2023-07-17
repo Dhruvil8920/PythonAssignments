@@ -5,6 +5,7 @@ it reads the same forward and backward. Alphanumeric characters include
 letters and numbers.
 
 Input: s = "A man, a plan, a canal: Panama"
+
 Output: true
 Explanation: "amanaplanacanalpanama" is a palindrome.
 
