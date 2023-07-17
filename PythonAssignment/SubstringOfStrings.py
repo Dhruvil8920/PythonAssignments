@@ -13,5 +13,5 @@ Output : ['AB', 'CA', 'AD']
 
 '''
 
-def SubstringOfString(s, k):
+def substring_list(s, k):
     "Write your logic here."
