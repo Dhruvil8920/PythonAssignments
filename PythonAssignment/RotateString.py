@@ -6,5 +6,4 @@ Input: s = "abcde", goal = "cdeab"
 Output: true
 '''
 def rotateString(s, goal):
-
         "Write your logic here."
