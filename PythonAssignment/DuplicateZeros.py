@@ -8,6 +8,7 @@ Explanation: After calling your function,
 the input array is modified to: [1,0,0,2,3,0,0,4]
 '''
 
+
 class Solution(object):
     def duplicateZeros(self, arr):
         "Write your logic here."
