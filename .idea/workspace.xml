@@ -70,9 +70,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/GadoyaDhruvilSanjayb/PycharmProjects/PythonAssignments",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -152,6 +150,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685600694114</updated>
+    </task>
+    <task id="LOCAL-00203" summary="changes">
+      <created>1687417488471</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1687417488471</updated>
+    </task>
+    <task id="LOCAL-00204" summary="changes">
+      <created>1687417565440</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1687417565450</updated>
+    </task>
+    <task id="LOCAL-00205" summary="changes">
+      <created>1687417638354</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1687417638354</updated>
     </task>
     <task id="LOCAL-00206" summary="changes">
       <created>1687417681846</created>
@@ -475,28 +494,7 @@
       <option name="project" value="LOCAL" />
       <updated>1690188527655</updated>
     </task>
-    <task id="LOCAL-00252" summary="file changed">
-      <created>1690189868624</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1690189868624</updated>
-    </task>
-    <task id="LOCAL-00253" summary="file changed">
-      <created>1690190004996</created>
-      <option name="number" value="00253" />
-      <option name="presentableId" value="LOCAL-00253" />
-      <option name="project" value="LOCAL" />
-      <updated>1690190004997</updated>
-    </task>
-    <task id="LOCAL-00254" summary="file changed">
-      <created>1690190052385</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1690190052385</updated>
-    </task>
-    <option name="localTasksCounter" value="255" />
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
